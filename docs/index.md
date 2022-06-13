@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-You can use the [editor on GitHub](https://github.com/Syafiii/tpg-group-c/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
 
-### Markdown
+<h2>Group C</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Syafiii/tpg-group-c/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<table>
+  <tr>
+    <th>Nama Member</th>
+    <th>LinkedIn</th>
+    <th>Instagram</th>
+  </tr>
+  <tr>
+    <td>Nama Member Ke-1</td>
+    <td>Nama Akun</td>
+    <td>Nama Akun</td>
+  </tr>
+  <tr>
+    <td>Ahmad Miftahul Rizki</td>
+    <td>Amif Rizki</td>
+    <td>Amif_14</td>
+  </tr>
+  <tr>
+    <td>Resty Indriyani</td>
+    <td>Resty Indriyani</td>
+    <td>Restyndryani</td>
+   </tr>
+   <tr>
+    <td>Syafi' Muhammad Fadhli</td>
+    <td>syafimfadhli</td>
+    <td>syafimfadhli</td>
+  </tr>
+</table>
+</body>
+</html>
